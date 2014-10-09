@@ -11,9 +11,11 @@ Chooses victims randomly on a preset interval (default is 1 week) to wash the di
 ## Installation
 
   After cloning the git repository cd into the directory and type the following
+  ```bash
     $ npm install
     $ sudo npm install forever -g
-    
+  ```
+  
 ## Configuring
 
     Modify the options.js file to reflect desired email/password
@@ -22,5 +24,6 @@ Chooses victims randomly on a preset interval (default is 1 week) to wash the di
 ## Quick Start
 
  Start the app:
-
+ ```bash
     $ forever -m 5 app.js
+ ```
