@@ -1,0 +1,9 @@
+{
+  "name": "dishwasher.js",
+  "description": "chooses dishwasher victims",
+  "author": "Dylan Ayrey",
+  "dependencies": {
+    "nodemailer": "1.3.0",
+    "imap": "0.8.14"
+  }
+}
