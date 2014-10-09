@@ -39,7 +39,7 @@ var send_reminder = function(){
         from: options.email,
         to: target,
         subject: options.subject,
-        text: options.body
+        text: options.text
     }
     transporter.sendMail(send_options)
 }
