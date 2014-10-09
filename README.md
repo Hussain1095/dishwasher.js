@@ -3,6 +3,7 @@ dishwasher.js
 
 Chooses victims randomly on a preset interval (default is 1 week) to wash the dishes and clean the kitchen
 
+You can also send an email to the configured email address to find out who that week's victim is.
 
 ## Dependancies
 
